@@ -1,3 +1,8 @@
+# author: Lea
+# class: CS 2010
+# date: 3/20/2022
+# notes: Working with a nested dictonary
+
 inventory =[
 {'brand': 'ford', 'model': 'mustang', 'year': '1970'},
 {'brand': 'toyota', 'model': 'tundra', 'year': '2022'},
