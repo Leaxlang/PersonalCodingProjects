@@ -3,4 +3,4 @@ In this repository I want to showcase some of my work. Some of were part of my
 classes, others were done purely for enjoyment.  
 
 ## Python
-[Truth Table](./logic_gates.py)
+[Truth Table](./TruthTable.py)
