@@ -3,4 +3,5 @@ In this repository I want to showcase some of my work. Some of were part of my
 classes, others were done purely for enjoyment.  
 
 ## Python
-[Truth Table](./TruthTable.py)
+[Truth Table](./TruthTable.py) - Printing different Truth Tables
+[Car Dealership](./CarDealership.py) - Experimenting with nested dictionaries
