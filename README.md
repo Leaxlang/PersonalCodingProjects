@@ -1,4 +1,6 @@
-# PersonalCodingProjects
-<h1>Personal Coding Projects</h1>
-<p>In this repository I want to showcase some of my coding work</p
-<p>this is a change</p>
+# Lea's Coding Projects
+In this repository I want to showcase some of my work. Some of were part of my
+classes, others were done purely for enjoyment.  
+
+## Python
+[Truth Table](./logic_gates.py)
