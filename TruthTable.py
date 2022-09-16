@@ -1,3 +1,8 @@
+# author: Lea Lang
+# class: CS 2010
+# date 4/18/2021
+# notes: print the truthtable for NOT, AND, and OR
+
 def NOT(a):
     return not a
     OR()
