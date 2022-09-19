@@ -1,4 +1,13 @@
+/*
+ * author: Lea
+ * class: 2011
+ * date: 9/14/2022
+ * description: Asking the user for the current day of the week, and another day in the future. 
+ * Then calculating what weekday the future day will be.
+ */
+
 import java.util.*;
+
 public class weekday{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);    
