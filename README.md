@@ -5,7 +5,7 @@ classes, others were done purely for enjoyment.
 
 ## Web
 
-- [Product Landing Page](./productlandingpage/) made with [HTML](./productlandingpage/index.html) and [CSS](./productlandingpage/styles.css)
+- [Product Landing Page](./productlandingpage/) - made with [HTML](./productlandingpage/index.html) and [CSS](./productlandingpage/styles.css)
 
 ## Java
 
