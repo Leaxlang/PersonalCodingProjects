@@ -9,7 +9,7 @@ classes, others were done purely for enjoyment.
 
 ## JavaScript
 
-- [Cash Register](./cashregister) 
+- [Cash Register](./cashregister.js) 
 
 ## Java
 
