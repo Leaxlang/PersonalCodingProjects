@@ -7,6 +7,10 @@ classes, others were done purely for enjoyment.
 
 - [Product Landing Page](./productlandingpage/) - made with [HTML](./productlandingpage/index.html) and [CSS](./productlandingpage/styles.css)
 
+## JavaScript
+
+- [Cash Register](./cashregister) 
+
 ## Java
 
 - [Weekday Calculator](./weekday.java) - Experimenting with division, modulo and switch
