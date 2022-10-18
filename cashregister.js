@@ -1,3 +1,6 @@
+//Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), 
+//payment as the second argument (cash), and cash-in-drawer (cid) as the third argument. (description taken from freeCodeCamp)
+
 var denom = [
 	{ name: 'ONE HUNDRED', val: 100},
 	{ name: 'TWENTY', val: 20},
