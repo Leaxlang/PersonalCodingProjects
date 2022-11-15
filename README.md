@@ -23,5 +23,5 @@ classes, others were done purely for enjoyment.
 
 ## Databases
 
-- [SQL](./mysql/information)
+- [SQL](./murdermystery.txt) - Solving the Murder Mystery
 - [MongoDB]
