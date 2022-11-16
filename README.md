@@ -5,6 +5,7 @@ classes, others were done purely for enjoyment.
 
 ## Web
 
+- [Albert Einstein](https://leaxlang.github.io/) - Astronomy Term Project: a website dedicated to Albert Einstein (inspired by early 2000s websites)
 - [Product Landing Page](./productlandingpage/) - made with [HTML](./productlandingpage/index.html) and [CSS](./productlandingpage/styles.css)
 
 ## JavaScript
