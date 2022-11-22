@@ -3,6 +3,9 @@
 In this repository I want to showcase some of my work. Some of were part of my
 classes, others were done purely for enjoyment.  
 
+[Click here to see my solutions on some Leetcode problems](https://github.com/Leaxlang/Leetcode)
+
+
 ## Web
 
 - [Albert Einstein](https://leaxlang.github.io/) - Astronomy Term Project: a website dedicated to Albert Einstein (inspired by early 2000s websites)
