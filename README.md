@@ -4,6 +4,7 @@ In this repository I want to showcase some of my work. Some of were part of my
 classes, others were done purely for enjoyment.  
 
 [Click here to see a Text Based Adventure Game I made together with a group](https://github.com/Leaxlang/finalproject)
+
 [Click here to see my solutions on some Leetcode problems](https://github.com/Leaxlang/Leetcode)
 
 
