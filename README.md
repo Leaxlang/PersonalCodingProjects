@@ -26,6 +26,7 @@ classes, others were done purely for enjoyment.
 
 - [Truth Table](./TruthTable.py) - Printing different Truth Tables 
 - [Car Dealership](./CarDealership.py) - Experimenting with nested dictionaries
+- [2D Arrays](.array-hw-with-python.py) - Java Homework (CS 2012) done in Python 
 
 ## Databases
 
