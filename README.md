@@ -19,8 +19,8 @@ classes, others were done purely for enjoyment.
 
 ## Java
 
-- [Weekday Calculator](./weekday.java) - Experimenting with division, modulo and switch
-- [Nibble Monster and Sentinel controlled loop](./NibbleMonsterWithSentinelControlledLoop.java) - Learning how to use do-while loop 
+- [Weekday Calculator](./Java/weekday.java) - Experimenting with division, modulo and switch
+- [2D Arrays](./Java/hw_array.java) - Creating multidemnsional Arrays and working with them
 
 ## Python
 
