@@ -10,6 +10,7 @@ classes, others were done purely for enjoyment.
 
 ## JavaScript
 
+- [Admin Dashboard](https://github.com/Leaxlang/admin-dashboard.git) - Web Application
 - [Cash Register](./cashregister.js) 
 
 ## Java
