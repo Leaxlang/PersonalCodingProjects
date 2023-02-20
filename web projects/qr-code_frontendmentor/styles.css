@@ -1,0 +1,42 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+body{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: var(--light-gray);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin: 4rem;
+}
+h1{
+      font-weight: 700;
+      color: var(--dark-blue);
+      text-align: center;
+}
+p{
+    font-weight: 400;
+    color:var(--grayish-blue);
+    text-align: center;
+}
+.qr{
+    border-radius: 15px;
+    max-width: 100%;
+}
+.card{
+    background-color: var(--white);
+    padding: 2em;
+    margin: 30 em;
+    border-radius: 20px;
+    width: 25em;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
