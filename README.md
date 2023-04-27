@@ -15,6 +15,7 @@ classes, others were done purely for enjoyment.
 
 ## Java
 
+- [EightBall](./Java/_11_02Eightball) - Magic Eightball made with JavaFX
 - [2D Arrays](./Java/hw_array.java) - Creating multidemnsional Arrays and working with them
 - [Weekday Calculator](./Java/weekday.java) - Experimenting with division, modulo and switch
 
