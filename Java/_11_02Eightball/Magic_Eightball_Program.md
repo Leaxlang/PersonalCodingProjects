@@ -9,4 +9,5 @@ The structure was given in this exercise:
 
 Because we had freedom to design the Eight ball itself, I added a gif to imitate an animation. To not have the animation repeat without the button being pressed, an image that looks identical displayed over the top.
 
-![gif showcasing program](https://github.com/Leaxlang/PersonalCodingProjects/blob/main/Java/_11_02Eightball/Magic%208-ball%202023-04-25%2009-57-57.gif?raw=true)
+![gif showcasing program](https://raw.githubusercontent.com/Leaxlang/PersonalCodingProjects/main/Java/_11_02Eightball/Magic8-ball.gif)
+
