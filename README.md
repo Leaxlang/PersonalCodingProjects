@@ -32,6 +32,6 @@ classes, others were done purely for enjoyment.
 
 ## Other examples of my work
 
-[Click here to see a Text Based Adventure Game I made together with a group](https://github.com/Leaxlang/finalproject)
+[Click here to see a Text Based Adventure Game I made](https://github.com/Leaxlang/finalproject)
 
 [Click here to see my solutions on some Leetcode problems](https://github.com/Leaxlang/Leetcode)
